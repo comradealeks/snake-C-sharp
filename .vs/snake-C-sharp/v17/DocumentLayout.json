@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Aleksander\\Documents\\GitHub\\snake-C-sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25AA8CCF-2807-4366-B963-D162A3C2655D}|Snake\\Snake.csproj|c:\\users\\aleksander\\documents\\github\\snake-c-sharp\\snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25AA8CCF-2807-4366-B963-D162A3C2655D}|Snake\\Snake.csproj|solutionrelative:snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aleksander\\Documents\\GitHub\\snake-C-sharp\\Snake\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "Snake\\Program.cs",
               "ToolTip": "C:\\Users\\Aleksander\\Documents\\GitHub\\snake-C-sharp\\Snake\\Program.cs",
               "RelativeToolTip": "Snake\\Program.cs",
-              "ViewState": "AQIAAGoAAAAAAAAAAAAAwJcAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T11:30:24.981Z",
+              "WhenOpened": "2024-05-22T07:36:11.311Z",
               "EditorCaption": ""
             }
           ]
